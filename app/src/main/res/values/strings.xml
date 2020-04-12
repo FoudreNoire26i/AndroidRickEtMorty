@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyRickAndMortyApplication</string>
+    <string name="sort_prompt">Choose a sort</string>
+    <string-array name="sort_arrays">
+        <item>Id</item>
+        <item>Name</item>
+        <item>Status</item>
+        <item>Species</item>
+        <item>Favorite</item>
+    </string-array>
+</resources>
